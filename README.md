@@ -19,4 +19,3 @@
 
 <img width="686" alt="스크린샷 2022-02-14 오후 10 08 21" src="https://user-images.githubusercontent.com/39721950/153870063-12f8dd40-dc1a-447f-8fe3-f6fffb90f5e3.png">
 
----
