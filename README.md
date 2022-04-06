@@ -1,6 +1,6 @@
 # TypeScript_Example
 
-> 회사에서 RN 개발 시 도입했던 typescript의 사용 예시
+> RN 개발 시 도입했던 typescript의 사용 예시 중 일부
 
 
 
